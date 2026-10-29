@@ -1,0 +1,8 @@
+# Sosyal medya lansman serisi (31.10–12.11.2026)
+
+- **BEKLEMEDE (30.10 01:02, Muhammet): "bunu yayınla dediğimde yayınla, şimdilik dursun."** Taslaklar Metricool'da kalır, hiçbiri taslaktan çıkarılmaz. "Yayınla" denince tarihler o günden itibaren kaydırılıp öyle planlanır (geçmiş tarihli taslak yayınlanmaz).
+- Durum: site 28.10'da yayına girdi; paylaşımlar başlıyor. 8 gönderi Metricool'da **TASLAK** (draft); Muhammet onaylayınca taslaktan çıkarılır, onaysız yayına girmez.
+- Ağlar: Instagram, Facebook, LinkedIn, TikTok (fotoğraf). Saat 10:00. Bağlantı ilk yorumda (UTM `utm_source=sosyal&utm_medium=organik&utm_campaign=lansman_2026_11`).
+- Takvim (uuid): Cmt 31.10 genel (-5926711553594276444) · Pzt 2.11 HRNews (77359193853349049) · Sal 3.11 HRSurvey (3802820496990947833) · Per 5.11 HRQuiz (-3790470403372923638) · Cum 6.11 HR Arena (8499500897001816629) · Pzt 9.11 Araçlar ve Soru-Cevap (1260832664102653166) · Çar 11.11 İK Çözümleri (-4064948619218238208) · Per 12.11 Markalar/reklam (-2053340846409629054). 4.11 performans karuseli ve 9.11 23:55 10 Kasım gönderisi araya girer; 10.11 anma günü tanıtım yok.
+- Görseller: hrcompass-sosyal `2026-10-31-lansman/` (00 genel: Muhammet'in yapay zekâ görseli, HRSurvey kartındaki bozuk soru yazısı düzeltildi, 4:5'e bulanık kenarla oturtuldu; 2:3 aslı da var. 01–07: HTML ile üretildi, gerçek logo, `kamp/gen/uret.py` şablonu). Metinler `metinler.py`, LinkedIn ücretli reklam metni ve hedefleme `linkedin-reklam.md`.
+- Görsel stili (30.10, Muhammet'in onayladığı genel görsel): pastel kartlar, numara rozeti, büyük başlık, cihaz çizimi, onay işaretli 3 madde, altta turuncu adres düğmesi + @HRCompassTR.
